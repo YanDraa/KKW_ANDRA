@@ -1,0 +1,8 @@
+how to push git hub
+
+1. git init
+2. git add .
+3. git git commit
+4. git branch
+5. git remote add origin https://github.com//(userkalian)/(repokalian).git
+6. 	
